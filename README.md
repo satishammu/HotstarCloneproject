@@ -1,2 +1,1 @@
-# HotstarCloneproject
-Created with CodeSandbox
+ Hotstar-Clone project
